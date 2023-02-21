@@ -1,0 +1,20 @@
+body::before{
+  display: block;
+  content: '';
+  height: 60px;
+}
+
+.journey{
+  background: rgb(131,216,244);
+background: linear-gradient(34deg, rgba(131,216,244,1) 18%, rgba(187,156,244,1) 38%, rgba(234,190,229,1) 65%, rgba(241,141,167,1) 85%);
+}
+
+.box-1{
+  width: 400px;
+  height: 75dvh;
+}
+
+.box{
+  width: 100%;
+  height: 15rem;
+}
